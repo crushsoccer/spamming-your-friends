@@ -1,4 +1,4 @@
-# spamming-your-friends
+# Spamming-your-friends
 We are going to create a simple bot that will repeatly send (a message of your choice) for (your choice) amount of time to one of your friends on a texting app or website (facebook, twitter, wechat, instagram, etc).
 # How to use
 After you run the program, you need to navigate immediately to the place which you want the text to be sent (facebook, twitter, wechat, instagram, etc) and hover the curser right above the text box. After 1 second (Default), you should be able to see the message you want being inputed and sent. 
