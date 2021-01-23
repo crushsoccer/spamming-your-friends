@@ -5,4 +5,4 @@ After you run the program, you need to navigate immediately to the place which y
 # Problem
 If you navigate to a place where it can take inputs from the user (search bar, notepad, etc) after you have run the program, the program will start to input the message in that field and we don't want that.
 # Solution
-If you encounter any problem, just go back to the code editor (Vs Code, PyCharm, Sublime Text, Vim, etc) and end the program. 
+If you encounter any problem, end the program and redo.
